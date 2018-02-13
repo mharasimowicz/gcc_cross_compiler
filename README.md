@@ -1,6 +1,8 @@
 # gcc_cross_compiler
 
-Building cross compilers requires gcc sources.
+Tested under debian 9.3.0 stretch.
+
+Building cross compilers requires gcc & binutils sources.
 
 Download https://ftp.gnu.org/gnu/binutils/binutils-2.30.tar.gz and extract into $HOME/src/binutils-2.30 folder.
 
